@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🚀 Valentino Fontela
 
-<!--
-**valenfontela/valenfontela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programador autodidacta apasionado por Python, Desarrollo Web y Ciberseguridad.
 
-Here are some ideas to get you started:
+📈 Creando proyectos propios, aprendiendo todos los días y compartiendo conocimientos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Tecnologías
+- Python
+- HTML, CSS, JavaScript
+- Ciberseguridad básica
+
+## 📂 Proyectos destacados
+- 🔐 [Generador de contraseñas en Python](link_al_repo)
+- 🌐 [Landing page personal](link_al_repo)
+- 🛡️ [Escáner de puertos básico](link_al_repo)
+
+## 📫 Contacto
+- Email: valenfontelaa@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/valentino-fontela-527237300/)
