@@ -21,11 +21,6 @@
 - 🌐 [Landing page personal](link_al_repo)
 - 🛡️ [Escáner de puertos básico](link_al_repo)
 
----
-
-## 📈 Stats
-
-![Valentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinofontela&show_icons=true&theme=radical)
 
 ---
 
