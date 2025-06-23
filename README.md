@@ -1,6 +1,5 @@
 # 🚀 Valentino Fontela
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
 💻 Programador autodidacta apasionado por **Python**, **Desarrollo Web** y **Ciberseguridad**.
 
